@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Sleeping for 30 secs"
+echo "Sleeping for 60 secs"
 sleep 60
 echo hello
